@@ -1,5 +1,5 @@
 
-# Convolution Neural Networks Cancerous Lesions Detection From the CT Scans Of Lungs Of Patients
+# Neural Convolutional Networks Finding Cancerous Nodules in Patients' Lungs Using CT Scans
 
 ![Stargazers](https://img.shields.io/github/stars/atharva21-stack/LungCancerDetection)
 ![Issues](https://img.shields.io/github/issues/atharva21-stack/LungCancerDetection)
