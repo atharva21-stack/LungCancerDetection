@@ -6,9 +6,7 @@
 ![Forks](https://img.shields.io/github/forks/atharva21-stack/LungCancerDetection)
 
 ## Introduction 👋
-Each year, around 225,000 individuals die in the United States as a result of lung cancer, with an additional monetary loss of $12 billion. The Vice President's office devotes special attention to the early detection of lung cancer, as this can boost the victims' chances of survival. According to Kaggle and 'Booz, Allen, Hamilton,' they are hosting a competition on Kaggle for detecting malignant blobs and nodules in patients' CT scans using a powerful machine learning algorithm. We (the team) decided to work on the Data Science Bowl 2017 problem because it was an interesting problem with a wide range of approaches for devising a solution.
-
-[Data Science Bowl 2017](https://www.kaggle.com/c/data-science-bowl-2017)
+Each year, around 225,000 individuals die in the United States as a result of lung cancer, with an additional monetary loss of $12 billion. The Vice President's office devotes special attention to the early detection of lung cancer, as this can boost the victims' chances of survival. In this project we are detecting malignant blobs and nodules in patients' CT scans using a powerful machine learning algorithm. We decided to work on the Data Science Bowl 2017 problem because it was an interesting problem with a wide range of approaches for devising a solution.
 
 
 ## Data & Pre-processing 🔀
